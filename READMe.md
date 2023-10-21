@@ -13,3 +13,6 @@ Deepanshu Bisht.
 # Birth Place
 
 Delhi.
+
+# WorkPlace
+Gurugram
